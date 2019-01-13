@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"The NewTours website is used for flight bookings.","Validate that the NewTours application requires the Origin and Destination locations to be different","FAILURE","2019-01-13T17:44:31.829Z[Europe/London]","0.0","71.94"

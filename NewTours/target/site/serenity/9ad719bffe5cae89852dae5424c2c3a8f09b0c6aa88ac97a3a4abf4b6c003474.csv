@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"The NewTours website is used for flight bookings.","Validate that an unregistered user cannot login in to the NewTours website.","SUCCESS","2019-01-13T17:42:39.281Z[Europe/London]","0.0","8.94"
+"The NewTours website is used for flight bookings.","Validate that the web user is able to perform flight bookings","SUCCESS","2019-01-13T17:42:48.228Z[Europe/London]","0.0","94.84"
+"The NewTours website is used for flight bookings.","Validate that the NewTours application requires the Origin and Destination locations to be different","FAILURE","2019-01-13T17:44:31.829Z[Europe/London]","0.0","71.94"
