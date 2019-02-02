@@ -1,7 +1,8 @@
 /*
 #### Author: Srikar Kini
 #### NewTours Test Project
-#### Date created: 12/01/2019
+#### Date created: Jan/2019
+#### Sample project for demo purposes only. 
  */
  
  Notes:
