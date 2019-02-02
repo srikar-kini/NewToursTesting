@@ -27,10 +27,6 @@ public class LandingPage extends AbstractPage {
 
 
     public void launchBrowserAndNavigateToTestURL(){
-        if(!browserLaunched){
-            readEnvironmentDetails();
-            setDriver(browser);
-        }
         getDriver().get(test_url);
     }
 

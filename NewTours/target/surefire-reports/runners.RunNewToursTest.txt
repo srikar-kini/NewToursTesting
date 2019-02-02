@@ -1,14 +1,14 @@
 -------------------------------------------------------------------------------
 Test set: runners.RunNewToursTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 185.712 sec <<< FAILURE!
-Validate that the NewTours application requires the Origin and Destination locations to be different(The NewTours website is used for flight bookings.)  Time elapsed: 72.038 sec  <<< FAILURE!
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32 sec <<< FAILURE!
+Validate that the NewTours application requires the Origin and Destination locations to be different(The NewTours website is used for flight bookings.)  Time elapsed: 4.879 sec  <<< FAILURE!
 java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.fail(Assert.java:95)
 	at pages.FlightFinderPage.bookingCannotProceedWithErrorsOnPage(FlightFinderPage.java:76)
 	at cucumberSerenity.BookingsSerenityStepDef.bookingCannotProceedWithErrorsOnPage(BookingsSerenityStepDef.java:70)
-	at cucumberSerenity.BookingsSerenityStepDef$$EnhancerByCGLIB$$54316ba1.CGLIB$bookingCannotProceedWithErrorsOnPage$9(<generated>)
+	at cucumberSerenity.BookingsSerenityStepDef$$EnhancerByCGLIB$$54316ba1.CGLIB$bookingCannotProceedWithErrorsOnPage$3(<generated>)
 	at cucumberSerenity.BookingsSerenityStepDef$$EnhancerByCGLIB$$54316ba1$$FastClassByCGLIB$$c95d1e48.invoke(<generated>)
 	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
 	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:477)
@@ -18,6 +18,6 @@ java.lang.AssertionError
 	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:165)
 	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:71)
 	at cucumberSerenity.BookingsSerenityStepDef$$EnhancerByCGLIB$$54316ba1.bookingCannotProceedWithErrorsOnPage(<generated>)
-	at cucumberSerenity.BookingsCucumberStepDef.theWebApplicationDoesnTLetTheUserToProceedWithBooking(BookingsCucumberStepDef.java:65)
-	at ✽.the web application doesn't let the user to proceed with booking(src/test/resources/features/NewToursTesting.feature:26)
+	at cucumberSerenity.BookingsCucumberStepDef.theWebApplicationDoesnTLetTheUserToProceedWithBooking(BookingsCucumberStepDef.java:73)
+	at ✽.the web application doesn't let the user to proceed with booking(src/test/resources/features/NewToursTesting.feature:28)
 

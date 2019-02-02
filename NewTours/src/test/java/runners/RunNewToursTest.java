@@ -7,10 +7,13 @@
 package runners;
 
 import cucumber.api.CucumberOptions;
+import cucumber.api.java.Before;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
 // Main runner class for the NewTours test.
+
+
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
@@ -18,5 +21,4 @@ import org.junit.runner.RunWith;
         glue = {"cucumberSerenity"})
 public class RunNewToursTest {
         public void runNewToursTests(){}
-
 }

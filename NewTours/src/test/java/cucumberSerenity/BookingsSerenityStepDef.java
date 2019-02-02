@@ -11,21 +11,21 @@ import pages.*;
 
 // Serenity step definition file
 public class BookingsSerenityStepDef extends AbstractPage {
-    private LandingPage landingPage;
-    private FlightFinderPage flightFinderPage;
-    private SelectFlightPage selectFlightPage;
-    private BookAFlightPage bookAFlightPage;
-    private FlightConfirmationPage flightConfirmationPage;
+    private LandingPage landingPage= createPage(LandingPage.class);
+    private FlightFinderPage flightFinderPage= createPage(FlightFinderPage.class);
+    private SelectFlightPage selectFlightPage= createPage(SelectFlightPage.class);
+    private BookAFlightPage bookAFlightPage = createPage(BookAFlightPage.class);
+    private FlightConfirmationPage flightConfirmationPage= createPage(FlightConfirmationPage.class);
 
     // constructor to initialize Page objects.
-    public BookingsSerenityStepDef() {
+   /* public BookingsSerenityStepDef() {
         landingPage = createPage(LandingPage.class);
         flightFinderPage = createPage(FlightFinderPage.class);
         selectFlightPage = createPage(SelectFlightPage.class);
         bookAFlightPage = createPage(BookAFlightPage.class);
         flightConfirmationPage = createPage(FlightConfirmationPage.class);
     }
-
+*/
     // Base step for set up and launching browser
     @Step
     public void launchBrowserAndNavigateToTestURL(){

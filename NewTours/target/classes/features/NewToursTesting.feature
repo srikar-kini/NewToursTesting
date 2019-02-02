@@ -1,5 +1,6 @@
 Feature: The NewTours website is used for flight bookings.
 
+  @initial
   Scenario: Validate that an unregistered user cannot login in to the NewTours website.
     Given I am a web user who navigates to the NewTours website
     When I provide an unregistered user details
@@ -8,7 +9,7 @@ Feature: The NewTours website is used for flight bookings.
 
   Scenario Outline: Validate that the web user is able to perform flight bookings
     Given I am a web user who navigates to the NewTours website
-    When I provide valid username as "testuser120119" and password as "Welcome1!"
+    When I provide valid username as "newuserfeb2019" and password as "Welcome1!"
     Then the user successfully logs in and is able to see the bookings page
     And provides "<Departing From>" , "<On Month>" , "<On Day>"
     And provides "<Arriving In>" , "<Returning Month>" , "<Returning Day>" , "<Airline>"
@@ -18,9 +19,10 @@ Feature: The NewTours website is used for flight bookings.
       | Acapulco       | November | 10     | Frankfurt   | November        | 17            | Blue Skies Airlines |
       | London         | December | 20     | New York    | December        | 30            | Unified Airlines    |
 
+  @last
   Scenario: Validate that the NewTours application requires the Origin and Destination locations to be different
     Given I am a web user who navigates to the NewTours website
-    When I provide valid username as "testuser120119" and password as "Welcome1!"
+    When I provide valid username as "newuserfeb2019" and password as "Welcome1!"
     Then the user successfully logs in and is able to see the bookings page
     And when the user chooses the same location for origin and destination
     Then the web application doesn't let the user to proceed with booking

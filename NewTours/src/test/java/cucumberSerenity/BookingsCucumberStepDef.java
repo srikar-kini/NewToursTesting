@@ -6,7 +6,6 @@
 
 package cucumberSerenity;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.And;
@@ -17,10 +16,19 @@ import net.thucydides.core.annotations.Steps;
 import pages.AbstractPage;
 
 // Cucumber step definition file
-public class BookingsCucumberStepDef {
+public class BookingsCucumberStepDef extends AbstractPage {
+
+    @Before("@initial")
+    public void setUp(){
+        readEnvironmentDetails();
+        setDriver(browser);
+    }
+    @After("@last")
+    public void tearDown(){
+        quitBrowser();
+    }
     @Steps
     BookingsSerenityStepDef bookingsSerenityStepDef;
-
 
     @Given("^I am a web user who navigates to the NewTours website$")
     public void iAmAWebUserWhoNavigatesToTheNewToursWebsite() throws Throwable {
