@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcbc2a3f-9425-43db-9627-ab70a9b4f463" name="Default Changelist" comment="" />
+    <list default="true" id="dcbc2a3f-9425-43db-9627-ab70a9b4f463" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AbstractPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AbstractPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/NewToursTesting.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/NewToursTesting.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AbstractPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AbstractPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/00cd18e2c924879b668eb8c68351d37d5afedfba26a13244a2c121c24d497f32.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/03d85a016b72e6ce9c9a8a2486397650c34af89813c63cf1561d43260456518d.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/03d85a016b72e6ce9c9a8a2486397650c34af89813c63cf1561d43260456518d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/03d85a016b72e6ce9c9a8a2486397650c34af89813c63cf1561d43260456518d.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/03d85a016b72e6ce9c9a8a2486397650c34af89813c63cf1561d43260456518d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/13026431f0ddd0f7a07b23b5b1d5c834efe8c71382adbab35b079c6205c664ea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/503beb4319ddd16f6950a2c7801f12bce2ee8cf28f3b24304cafd609ddc26166.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/503beb4319ddd16f6950a2c7801f12bce2ee8cf28f3b24304cafd609ddc26166.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/503beb4319ddd16f6950a2c7801f12bce2ee8cf28f3b24304cafd609ddc26166.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/503beb4319ddd16f6950a2c7801f12bce2ee8cf28f3b24304cafd609ddc26166.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/79825053f38ad239f5f17f4a41c89b93f080424da2f7c9595e510f0144b57ce2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9548562b6ec2d6b64239bc36ba2afa233693db39be5786c41771e5181cdbaf9b.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9ad719bffe5cae89852dae5424c2c3a8f09b0c6aa88ac97a3a4abf4b6c003474.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9ad719bffe5cae89852dae5424c2c3a8f09b0c6aa88ac97a3a4abf4b6c003474.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ab1f77949d0f9acfb350fe21e530a90dc4efb5a391ce375ec3b92ebd24eb2039.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c486c7b57e1a3da365d2581c547d80b22a4ef3a11d7fea5b63fce31f012a6779.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eff85323357fccd33a5d7249d69b4127298207cbcc6edfbb422be1449d49b70e.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f6145dea969d36368697bb0f01eae859290c0441b4235c6edfd33a27d6100b26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.RunNewToursTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.RunNewToursTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/runners.RunNewToursTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/runners.RunNewToursTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberSerenity/BookingsCucumberStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cucumberSerenity/BookingsCucumberStepDef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberSerenity/BookingsSerenityStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cucumberSerenity/BookingsSerenityStepDef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/NewToursTesting.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/NewToursTesting.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/RunNewToursTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/RunNewToursTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,26 +105,61 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="39508924">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="feature" value="2" />
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Cucumber" value="2" />
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="51" />
+          <entry key="java" value="202" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="51" />
+          <entry key="JAVA" value="202" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#3234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/FlightFinderPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="48">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
               <folding>
                 <element signature="e#0#4251#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -86,27 +171,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="61">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
-                <element signature="e#0#3263#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-                <element signature="e#1219#1220#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#2785#2786#0" expanded="true" />
-                <element signature="e#2821#2822#0" expanded="true" />
+                <element signature="e#1846#1847#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/properties/EnvDetails.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -114,8 +185,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="171">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#521#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -125,10 +196,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serenity.properties">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="357">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="85" column="64" lean-forward="true" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,21 +221,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="135">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/AbstractPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-613">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4464#4465#0" expanded="true" />
+                <element signature="e#4501#4502#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/FlightConfirmationPage.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/PageFactory.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#768#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,13 +266,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/LandingPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="192">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#0#1820#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1303#1304#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,26 +299,37 @@
       <find>inside</find>
       <find>plugin</find>
       <find>//img[@src='/images/masts/mast_book.gif']</find>
+      <find>enterRegisteredUserDetails</find>
+      <find>Hello</find>
+      <find>closeBrowser</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="improve_framework" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/BookingsSerenityStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/BookingsCucumberStepDef.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/AbstractPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/BookAFlightPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/FlightConfirmationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/FlightFinderPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/SelectFlightPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java" />
         <option value="$PROJECT_DIR$/properties/EnvDetails.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/AbstractPage.java" />
       </list>
     </option>
   </component>
@@ -246,11 +352,14 @@
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,20 +372,84 @@
               <item name="NewTours" type="462c0819:PsiDirectoryNode" />
               <item name="properties" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewTours" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewTours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547401361876" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/cucumberSerenity" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549116078496" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -317,6 +490,8 @@
                 <option value="serenity:aggregate" />
                 <option value="-Dmaven.test.failure.ignore=true" />
                 <option value="-Dtest=RunNewToursTest" />
+                <option value="-DforkCount=0" />
+                <option value="-DreuseForks=false" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -342,11 +517,15 @@
       <option name="presentableId" value="Default" />
       <updated>1547276759762</updated>
       <workItem from="1547276763062" duration="48833000" />
+      <workItem from="1548496716966" duration="1476000" />
+      <workItem from="1548513109665" duration="2280000" />
+      <workItem from="1549099209086" duration="3246000" />
+      <workItem from="1549107295582" duration="6928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48833000" />
+    <option name="totallyTimeSpent" value="62763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,34 +540,34 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12934947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4633758" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54140127" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.68949044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.62738854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32961783" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,36 +591,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature">
+    <entry file="file://$PROJECT_DIR$/properties/EnvDetails.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state>
+          <caret column="37" selection-start-column="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AbstractPage.java">
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" lean-forward="true" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#4472#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#3378#3379#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#4252#4253#0" expanded="true" />
-            <element signature="e#4289#4290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BookAFlightPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1457#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -456,27 +616,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FlightFinderPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BookAFlightPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#4251#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LandingPage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/PageFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1820#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -491,10 +641,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-junit/2.4.0/cucumber-junit-2.4.0.jar!/cucumber/api/junit/Cucumber.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/runners/RunNewToursTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#521#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -502,51 +659,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LandingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="192">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#1820#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FlightFinderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#4251#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#3234#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsSerenityStepDef.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="61">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
-            <element signature="e#0#3263#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#2785#2786#0" expanded="true" />
-            <element signature="e#2821#2822#0" expanded="true" />
+            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/properties/EnvDetails.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/NewToursTesting.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cucumberSerenity/BookingsCucumberStepDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="85" column="64" lean-forward="true" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4464#4465#0" expanded="true" />
+            <element signature="e#4501#4502#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

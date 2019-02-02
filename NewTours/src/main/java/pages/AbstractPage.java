@@ -34,7 +34,6 @@ public abstract class AbstractPage {
     protected static WebDriver driver;
     protected static Path path = Paths.get("");
     protected static String test_url,browser;
-    protected static boolean browserLaunched=false;
     protected SimpleDateFormat date = new SimpleDateFormat("ddMMyyyy");
     protected SimpleDateFormat time = new SimpleDateFormat("_HHmmss");
     protected static String screenshotName="";
@@ -65,7 +64,6 @@ public abstract class AbstractPage {
     protected void readEnvironmentDetails(){
         test_url=getValueFromPropertiesFile("/properties/EnvDetails.properties","test.url");
         browser=getValueFromPropertiesFile("/properties/EnvDetails.properties","browser");
-        browserLaunched=true;
     }
 
     // instantiate browser by choice.
@@ -105,9 +103,10 @@ public abstract class AbstractPage {
     }
 
     protected void quitBrowser(){
-        getDriver().close();
-        getDriver().quit();
-        log.info("Driver object is closed.");
+        if(getDriver()!=null){
+            getDriver().quit();
+            log.info("Driver object is released.");
+        }
     }
 
     protected String takeScreenshotAndReturnName(String screenName){

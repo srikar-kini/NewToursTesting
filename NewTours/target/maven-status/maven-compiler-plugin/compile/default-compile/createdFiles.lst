@@ -1,6 +1,6 @@
-pages\BookAFlightPage.class
 pages\SelectFlightPage.class
-pages\FlightFinderPage.class
 pages\AbstractPage.class
-pages\LandingPage.class
 pages\FlightConfirmationPage.class
+pages\FlightFinderPage.class
+pages\BookAFlightPage.class
+pages\LandingPage.class

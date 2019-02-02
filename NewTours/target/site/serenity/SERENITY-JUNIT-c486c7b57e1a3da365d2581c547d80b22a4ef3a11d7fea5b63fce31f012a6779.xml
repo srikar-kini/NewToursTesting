@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="The NewTours website is used for flight bookings." skipped="0" tests="4" time="175.72" timestamp="2019-01-13 05:42:39"><testcase name="Validate that an unregistered user cannot login in to the NewTours website."/><testcase name="Validate that the web user is able to perform flight bookings"/><testcase name="Validate that the NewTours application requires the Origin and Destination locations to be different"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="The NewTours website is used for flight bookings." skipped="0" tests="4" time="26.63" timestamp="2019-02-02 01:44:36"><testcase name="Validate that an unregistered user cannot login in to the NewTours website."/><testcase name="Validate that the web user is able to perform flight bookings"/><testcase name="Validate that the NewTours application requires the Origin and Destination locations to be different"><failure type="java.lang.AssertionError"/><system-err>null&#13;
 pages.FlightFinderPage.bookingCannotProceedWithErrorsOnPage(FlightFinderPage.java:76)&#13;
 cucumberSerenity.BookingsSerenityStepDef.bookingCannotProceedWithErrorsOnPage(BookingsSerenityStepDef.java:70)&#13;
-cucumberSerenity.BookingsCucumberStepDef.theWebApplicationDoesnTLetTheUserToProceedWithBooking(BookingsCucumberStepDef.java:65)&#13;
-✽.the web application doesn't let the user to proceed with booking(src/test/resources/features/NewToursTesting.feature:26)&#13;
+cucumberSerenity.BookingsCucumberStepDef.theWebApplicationDoesnTLetTheUserToProceedWithBooking(BookingsCucumberStepDef.java:73)&#13;
+✽.the web application doesn't let the user to proceed with booking(src/test/resources/features/NewToursTesting.feature:28)&#13;
 </system-err></testcase></testsuite>
